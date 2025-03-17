@@ -9,6 +9,7 @@ spkg search <package|file.sml|>
 spkg list
 ```
 ### Deps:
+- Golang
 !! COMING SOON !!
 ### Install
 !! COMING SOON !!
