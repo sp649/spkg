@@ -8,7 +8,7 @@ spkg update <package|file.sml|>>
 spkg search <package|file.sml|>
 spkg list
 ```
-### Dependancys:
+### Deps:
 !! COMING SOON !!
 ### Install
 !! COMING SOON !!
