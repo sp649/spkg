@@ -10,6 +10,8 @@ spkg list
 ```
 ### Deps:
 - Golang
-!! COMING SOON !!
+- !! MORE COMING SOON !!
 ### Install
+```bash
 !! COMING SOON !!
+```
